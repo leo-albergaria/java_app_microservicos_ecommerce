@@ -1,7 +1,7 @@
-<p><img src="imagem" align="left" height="150px" width="150px">
-    <h1># Título</h1> 
+<p><img src="https://user-images.githubusercontent.com/63436406/129567180-189e141e-1a81-4124-a793-7c098dce785c.png" align="left" height="150px" width="150px">
+    <h1># Criando uma solução de e-commerce com microsserviços em Java</h1> 
     <p align="justify">
-    Você digitar texto aqui.
+    Métodos e ferramentas: Microserviços, Spring, Kafka, Avro, Schema Registry - Prof. Daniel Rodrigues Hatanaka
     </p>
 </p>      
 
